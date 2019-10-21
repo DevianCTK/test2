@@ -3,25 +3,37 @@
  [
   {
     "id": 1,
-    "GName": "Phần Quà Công Nghệ",
+    "GName": "Phần Quà A",
+    "GValue": 1,
     "GDetailValue": 3,
-    "GDetailName": "xz",
+    "GDetailName": "Quà con của Phần Quà A",
     "GDetailWeight": 3,
     "GDetailAmount": 23
   },
   {
     "id": 2,
-    "GName": "Phần Quà Công Nghệ",
-    "GDetailValue": 3,
-    "GDetailName": "xz",
+    "GName": "Phần Quà B",
+    "GValue": 2,
+    "GDetailValue": 6,
+    "GDetailName": "Quà con của Phần Quà B 1",
+    "GDetailWeight": 3,
+    "GDetailAmount": 23
+  },
+  {
+    "id": 2,
+    "GName": "Phần Quà B",
+    "GValue": 2,
+    "GDetailValue": 6,
+    "GDetailName": "Quà con của Phần Quà B 2",
     "GDetailWeight": 3,
     "GDetailAmount": 23
   },
   {
     "id": 3,
-    "GName": "Phần Quà Công Nghệ",
+    "GName": "Phần Quà C",
+    "GValue": 3,
     "GDetailValue": 3,
-    "GDetailName": "xz",
+    "GDetailName": "Quà con của Phần Quà C",
     "GDetailWeight": 3,
     "GDetailAmount": 23
   }
