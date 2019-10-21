@@ -1,0 +1,35 @@
+{
+  "Gift": [
+    {
+      "id": 1,
+      "GValue":1
+      "GName": "Phần Quà A",
+      "GDetailValue": 5,
+      "GDetailName": "Quà 1",
+      "GDetailWeight": 5,
+      "GDetailAmount": 4,
+      "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 2,
+      "GValue":1
+      "GName": "Phần Quà A",
+      "GDetailValue": 1,
+      "GDetailName": "Quà 2",
+      "GDetailWeight": 1,
+      "GDetailAmount": 4,
+      "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    },
+    {
+      "id": 3,
+      "GValue":2
+      "GName": "Phần Quà B",
+      "GDetailValue": 3,
+      "GDetailName": "Quà 3",
+      "GDetailWeight": 3,
+      "GDetailAmount": 6,
+      "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    },   
+    
+  ]
+}
