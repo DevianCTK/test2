@@ -8,7 +8,8 @@
     "GDetailValue": 3,
     "GDetailName": "Quà con của Phần Quà A",
     "GDetailWeight": 3,
-    "GDetailAmount": 23
+    "GDetailAmount": 23,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "GDetailValue": 6,
     "GDetailName": "Quà con của Phần Quà B 1",
     "GDetailWeight": 3,
-    "GDetailAmount": 23
+    "GDetailAmount": 23,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
   {
     "id": 2,
@@ -26,7 +28,8 @@
     "GDetailValue": 6,
     "GDetailName": "Quà con của Phần Quà B 2",
     "GDetailWeight": 3,
-    "GDetailAmount": 23
+    "GDetailAmount": 23,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
   {
     "id": 3,
@@ -35,7 +38,8 @@
     "GDetailValue": 3,
     "GDetailName": "Quà con của Phần Quà C",
     "GDetailWeight": 3,
-    "GDetailAmount": 23
+    "GDetailAmount": 23,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952"
   }
  ]
 }
