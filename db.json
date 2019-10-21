@@ -25,10 +25,10 @@
     "id": 3,
     "GName": "Phần Quà B",
     "GValue": 2,
-    "GDetailValue": 6,
+    "GDetailValue": 4,
     "GDetailName": "Quà con của Phần Quà B 2",
-    "GDetailWeight": 3,
-    "GDetailAmount": 23,
+    "GDetailWeight": 15,
+    "GDetailAmount": 19,
     "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
   {
@@ -37,7 +37,7 @@
     "GValue": 3,
     "GDetailValue": 3,
     "GDetailName": "Quà con của Phần Quà C",
-    "GDetailWeight": 3,
+    "GDetailWeight": 20,
     "GDetailAmount": 23,
     "ImageGDetail": "https://via.placeholder.com/600/92c952"
   }
