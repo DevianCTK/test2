@@ -2,7 +2,7 @@
   "Gift": [
     {
       "id": 1,
-      "GValue":1,
+      "GValue": 1,
       "GName": "Phần Quà A",
       "GDetailValue": 5,
       "GDetailName": "Quà 1",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "GValue":1,
+      "GValue": 1,
       "GName": "Phần Quà A",
       "GDetailValue": 1,
       "GDetailName": "Quà 2",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "GValue":2,
+      "GValue": 2,
       "GName": "Phần Quà B",
       "GDetailValue": 3,
       "GDetailName": "Quà 3",
