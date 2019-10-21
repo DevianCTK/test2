@@ -1,5 +1,5 @@
 {
-  "Gift": 
+  "Gift": {
   [
     {
       "id": 1,
@@ -32,4 +32,5 @@
       "ImageGDetail": "https://via.placeholder.com/600/92c952"
     }
   ]
+  }
 }
