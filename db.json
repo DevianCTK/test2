@@ -89,7 +89,7 @@
     "GWeight": 10,
     "GAmount": 23,
     "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
-    "GPositionOnWheel2": 10
+    "GPositionOnWheel": 10
   },
   {
     "id": 11,
@@ -98,7 +98,7 @@
     "GWeight": 5,
     "GAmount": 23,
     "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
-    "GPositionOnWheel3": 12
+    "GPositionOnWheel": 12
   },
   {
     "id": 12,
