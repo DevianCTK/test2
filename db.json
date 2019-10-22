@@ -3,8 +3,6 @@
  [
   {
     "id": 1,
-    "GName": "Phần Quà A",
-    "GValue": 1,
     "GDetailValue": 3,
     "GDetailName": "Quà con của Phần Quà A",
     "GDetailWeight": 3,
@@ -13,6 +11,16 @@
   },
   {
     "id": 2,
+    "GName": "Phần Quà C",
+    "GValue": 3,
+    "GDetailValue": 3,
+    "GDetailName": "Quà con của Phần Quà C",
+    "GDetailWeight": 20,
+    "GDetailAmount": 23,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+  },
+  {
+    "id": 3,
     "GName": "Phần Quà B",
     "GValue": 2,
     "GDetailValue": 6,
@@ -22,7 +30,7 @@
     "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
   {
-    "id": 3,
+    "id": 4,
     "GName": "Phần Quà B",
     "GValue": 2,
     "GDetailValue": 4,
@@ -31,15 +39,5 @@
     "GDetailAmount": 19,
     "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
-  {
-    "id": 3,
-    "GName": "Phần Quà C",
-    "GValue": 3,
-    "GDetailValue": 3,
-    "GDetailName": "Quà con của Phần Quà C",
-    "GDetailWeight": 20,
-    "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952"
-  }
  ]
 }
