@@ -5,7 +5,7 @@
     "id": 1,
     "GValue": 1,
     "GName": "Chúc bạn may mắn lần sau",
-    "GWeight": 25,
+    "GWeight": 10,
     "GAmount": 23,
     "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel": 1
@@ -77,7 +77,7 @@
     "id": 9,
     "GValue": 2,
     "GName": "Quà bí ẩn",
-    "GWeight": 10,
+    "GWeight": 5,
     "GAmount": 23,
     "ImageG": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
     "GPositionOnWheel": 6
@@ -86,7 +86,7 @@
     "id": 10,
     "GValue": 1,
     "GName": "Chúc bạn may mắn lần sau",
-    "GWeight": 25,
+    "GWeight": 10,
     "GAmount": 23,
     "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel2": 10
@@ -95,7 +95,7 @@
     "id": 11,
     "GValue": 1,
     "GName": "Chúc bạn may mắn lần sau",
-    "GWeight": 25,
+    "GWeight": 5,
     "GAmount": 23,
     "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel3": 12
@@ -104,7 +104,7 @@
     "id": 12,
     "GValue": 2,
     "GName": "Quà bí ẩn",
-    "GWeight": 10,
+    "GWeight": 5,
     "GAmount": 23,
     "ImageG": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
     "GPositionOnWheel": 11
