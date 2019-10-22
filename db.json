@@ -7,7 +7,7 @@
     "GName": "Chúc bạn may mắn lần sau",
     "GWeight": 25,
     "GAmount": 23,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel1": 1,
     "GPositionOnWheel2": 10,
     "GPositionOnWheel3": 12
@@ -18,7 +18,7 @@
     "GName": "IPhone",
     "GWeight": 0.01,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg",
     "GPositionOnWheel1": 2
   },
   {
@@ -27,7 +27,7 @@
     "GName": "Quà khác 1",
     "GWeight": 10,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/arctichare",
     "GPositionOnWheel1": 3
   },
   {
@@ -36,7 +36,7 @@
     "GName": "Quà khác 2",
     "GWeight": 10,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/airplane",
     "GPositionOnWheel1": 4
   },
   {
@@ -45,7 +45,7 @@
     "GName": "Quà khác 3",
     "GWeight": 5,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/baboon",
     "GPositionOnWheel1": 5
   },
   {
@@ -54,7 +54,7 @@
     "GName": "Quà khác 4",
     "GWeight": 9.99,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
     "GPositionOnWheel1": 7
   },
   {
@@ -63,7 +63,7 @@
     "GName": "Quà khác 5",
     "GWeight": 20,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png",
     "GPositionOnWheel1": 8
   },
   {
@@ -72,7 +72,7 @@
     "GName": "Quà khác 5",
     "GWeight": 10,
     "GAmount": 5,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
     "GPositionOnWheel1": 9
   },
   {
@@ -81,7 +81,7 @@
     "GName": "Quà bí ẩn",
     "GWeight": 10,
     "GAmount": 23,
-    "ImageG": "https://via.placeholder.com/600/92c952",
+    "ImageG": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
     "GPositionOnWheel1": 6,
     "GPositionOnWheel2": 11
   }
