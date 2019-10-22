@@ -39,5 +39,13 @@
     "GDetailAmount": 19,
     "ImageGDetail": "https://via.placeholder.com/600/92c952"
   },
+  {
+    "id": 5,
+    "GDetailValue": 32,
+    "GDetailName": "Quà con của Phần Quà A",
+    "GDetailWeight": 3,
+    "GDetailAmount": 23,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+  }
  ]
 }
