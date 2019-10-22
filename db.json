@@ -4,86 +4,87 @@
   {
     "id": 1,
     "GValue": 1,
-    "GDetailName": "Chúc bạn may mắn lần sau",
-    "GDetailWeight": 25,
-    "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":1,
-    "GPositionOnWheel2":10,
-    "GPositionOnWheel3":12
+    "GName": "Chúc bạn may mắn lần sau",
+    "GWeight": 25,
+    "GAmount": 23,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 1,
+    "GPositionOnWheel2": 10,
+    "GPositionOnWheel3": 12
   },
   {
     "id": 2,
     "GValue": 1,
-    "GDetailName": "IPhone",
-    "GDetailWeight": 0.01,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":2
+    "GName": "IPhone",
+    "GWeight": 1,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 2
   },
   {
     "id": 3,
     "GValue": 1,
-    "GDetailName": "Quà khác 1",
-    "GDetailWeight": 10,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":3
+    "GName": "Quà khác 1",
+    "GWeight": 10,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 3
   },
   {
     "id": 4,
     "GValue": 1,
-    "GDetailName": "Quà khác 2",
-    "GDetailWeight": 10,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952,
-    "GPositionOnWheel1":4
+    "GName": "Quà khác 2",
+    "GWeight": 10,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 4
   },
   {
     "id": 5,
     "GValue": 1,
-    "GDetailName": "Quà khác 3",
-    "GDetailWeight": 5,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":5
+    "GName": "Quà khác 3",
+    "GWeight": 5,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 5
   },
   {
     "id": 6,
     "GValue": 1,
-    "GDetailName": "Quà khác 4",
-    "GDetailWeight": 9.99,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":7
+    "GName": "Quà khác 4",
+    "GWeight": 9.99,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 7
   },
   {
     "id": 7,
     "GValue": 1,
-    "GDetailName": "Quà khác 5",
-    "GDetailWeight": 20,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":8
+    "GName": "Quà khác 5",
+    "GWeight": 20,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 8
   },
   {
-    "id": 7,
+    "id": 8,
     "GValue": 1,
-    "GDetailName": "Quà khác 5",
-    "GDetailWeight": 20,
-    "GDetailAmount": 5,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":9
+    "GName": "Quà khác 5",
+    "GWeight": 20,
+    "GAmount": 5,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 9
   },
   {
-    "id": 5,
-    "GDetailValue": 32,
-    "GDetailName": "Quà con của Phần Quà A",
-    "GDetailWeight": 3,
-    "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952",
-    "GPositionOnWheel1":6,
-    "GPositionOnWheel2":11
+    "id": 9,
+    "GValue": 2,
+    "GName": ,
+    "GName": "Quà con của Phần Quà A",
+    "GWeight": 3,
+    "GAmount": 23,
+    "ImageG": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1": 6,
+    "GPositionOnWheel2": 11
   }
  ]
 }
