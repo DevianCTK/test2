@@ -3,41 +3,77 @@
  [
   {
     "id": 1,
-    "GDetailValue": 3,
-    "GDetailName": "Quà con của Phần Quà A",
-    "GDetailWeight": 3,
+    "GValue": 1,
+    "GDetailName": "Chúc bạn may mắn lần sau",
+    "GDetailWeight": 25,
     "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":1,
+    "GPositionOnWheel2":10,
+    "GPositionOnWheel3":12
   },
   {
     "id": 2,
-    "GName": "Phần Quà C",
-    "GValue": 3,
-    "GDetailValue": 3,
-    "GDetailName": "Quà con của Phần Quà C",
-    "GDetailWeight": 20,
-    "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    "GValue": 1,
+    "GDetailName": "IPhone",
+    "GDetailWeight": 0.01,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":2
   },
   {
     "id": 3,
-    "GName": "Phần Quà B",
-    "GValue": 2,
-    "GDetailValue": 6,
-    "GDetailName": "Quà con của Phần Quà B 1",
-    "GDetailWeight": 3,
-    "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    "GValue": 1,
+    "GDetailName": "Quà khác 1",
+    "GDetailWeight": 10,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":3
   },
   {
     "id": 4,
-    "GName": "Phần Quà B",
-    "GValue": 2,
-    "GDetailValue": 4,
-    "GDetailName": "Quà con của Phần Quà B 2",
-    "GDetailWeight": 15,
-    "GDetailAmount": 19,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    "GValue": 1,
+    "GDetailName": "Quà khác 2",
+    "GDetailWeight": 10,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952,
+    "GPositionOnWheel1":4
+  },
+  {
+    "id": 5,
+    "GValue": 1,
+    "GDetailName": "Quà khác 3",
+    "GDetailWeight": 5,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":5
+  },
+  {
+    "id": 6,
+    "GValue": 1,
+    "GDetailName": "Quà khác 4",
+    "GDetailWeight": 9.99,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":7
+  },
+  {
+    "id": 7,
+    "GValue": 1,
+    "GDetailName": "Quà khác 5",
+    "GDetailWeight": 20,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":8
+  },
+  {
+    "id": 7,
+    "GValue": 1,
+    "GDetailName": "Quà khác 5",
+    "GDetailWeight": 20,
+    "GDetailAmount": 5,
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":9
   },
   {
     "id": 5,
@@ -45,7 +81,9 @@
     "GDetailName": "Quà con của Phần Quà A",
     "GDetailWeight": 3,
     "GDetailAmount": 23,
-    "ImageGDetail": "https://via.placeholder.com/600/92c952"
+    "ImageGDetail": "https://via.placeholder.com/600/92c952",
+    "GPositionOnWheel1":6,
+    "GPositionOnWheel2":11
   }
  ]
 }
