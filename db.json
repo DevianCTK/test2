@@ -16,7 +16,7 @@
     "id": 2,
     "GValue": 1,
     "GName": "IPhone",
-    "GWeight": 1,
+    "GWeight": 0.01,
     "GAmount": 5,
     "ImageG": "https://via.placeholder.com/600/92c952",
     "GPositionOnWheel1": 2
@@ -70,7 +70,7 @@
     "id": 8,
     "GValue": 1,
     "GName": "Quà khác 5",
-    "GWeight": 20,
+    "GWeight": 10,
     "GAmount": 5,
     "ImageG": "https://via.placeholder.com/600/92c952",
     "GPositionOnWheel1": 9
