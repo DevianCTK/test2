@@ -7,7 +7,7 @@
     "GName": "Chúc bạn may mắn lần sau",
     "GWeight": 10,
     "GAmount": 23,
-    "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
+    "GImage": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel": 1
   },
   {
@@ -16,7 +16,7 @@
     "GName": "IPhone",
     "GWeight": 0.01,
     "GAmount": 5,
-    "ImageG": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg",
+    "GImage": "https://cdn.tgdd.vn/Products/Images/42/114111/iphone-x-256gb-a1-600x600.jpg",
     "GPositionOnWheel": 2
   },
   {
@@ -25,7 +25,7 @@
     "GName": "Quà khác 1",
     "GWeight": 10,
     "GAmount": 5,
-    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/arctichare",
+    "GImage": "https://homepages.cae.wisc.edu/~ece533/images/arctichare",
     "GPositionOnWheel": 3
   },
   {
@@ -34,7 +34,7 @@
     "GName": "Quà khác 2",
     "GWeight": 10,
     "GAmount": 5,
-    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/airplane",
+    "GImage": "https://homepages.cae.wisc.edu/~ece533/images/airplane",
     "GPositionOnWheel": 4
   },
   {
@@ -43,7 +43,7 @@
     "GName": "Quà khác 3",
     "GWeight": 5,
     "GAmount": 5,
-    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/baboon",
+    "GImage": "https://homepages.cae.wisc.edu/~ece533/images/baboon",
     "GPositionOnWheel": 5
   },
   {
@@ -52,7 +52,7 @@
     "GName": "Quà khác 4",
     "GWeight": 9.99,
     "GAmount": 5,
-    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+    "GImage": "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
     "GPositionOnWheel": 7
   },
   {
@@ -61,7 +61,7 @@
     "GName": "Quà khác 5",
     "GWeight": 20,
     "GAmount": 5,
-    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png",
+    "GImage": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png",
     "GPositionOnWheel": 8
   },
   {
@@ -70,7 +70,7 @@
     "GName": "Quà khác 5",
     "GWeight": 10,
     "GAmount": 5,
-    "ImageG": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+    "GImage": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
     "GPositionOnWheel": 9
   },
   {
@@ -79,7 +79,7 @@
     "GName": "Quà bí ẩn",
     "GWeight": 5,
     "GAmount": 23,
-    "ImageG": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
+    "GImage": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
     "GPositionOnWheel": 6
   },
   {
@@ -88,7 +88,7 @@
     "GName": "Chúc bạn may mắn lần sau",
     "GWeight": 10,
     "GAmount": 23,
-    "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
+    "GImage": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel": 10
   },
   {
@@ -97,7 +97,7 @@
     "GName": "Chúc bạn may mắn lần sau",
     "GWeight": 5,
     "GAmount": 23,
-    "ImageG": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
+    "GImage": "https://i1.sndcdn.com/avatars-000490611378-ivdfi5-t500x500.jpg",
     "GPositionOnWheel": 12
   },
   {
@@ -106,7 +106,7 @@
     "GName": "Quà bí ẩn",
     "GWeight": 5,
     "GAmount": 23,
-    "ImageG": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
+    "GImage": "https://cdn.shopify.com/s/files/1/0364/2153/products/c01728b3e56f1292a7fd6d9ee9b60fa0_1024x1024.png?v=1511451510",
     "GPositionOnWheel": 11
   }
  ]
